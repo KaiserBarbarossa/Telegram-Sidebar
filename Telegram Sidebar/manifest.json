@@ -10,7 +10,7 @@
     }
   },
   "icons": {
-   "48": "icons/telegram.png" 
+   "32": "icons/telegram.png" 
   }, 
 
   "sidebar_action": {
