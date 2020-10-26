@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Telegram Sidebar",
   "description": "Displays Telegram in a sidebar.",
-  "version": "1.2",
+  "version": "1.2.1",
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "54.0a1"
